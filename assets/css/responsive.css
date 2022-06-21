@@ -1,0 +1,238 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+
+@media all and (max-width:1200px){
+	.bennar_area::after {
+		width: 500px;
+		height: 85%;
+	}
+
+	.single_pakegImg img {
+		width: 100%;
+	}
+
+	.single_pakegTitle h1 {
+		font-size: 50px;
+		margin-top: -125px;
+	}
+}
+
+@media all and (max-width:991px){
+	.section_padding {
+		padding: 40px 0px;
+	}
+	.single_tags_items {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 20%;
+		        flex: 0 0 20%;
+		max-width: 20%;
+	}
+	.single_tags_items a img {
+		width: 100px;
+		height: 65px;
+	}
+	.bennar_area {
+		padding: 150px 0px 40px 0px;
+	}
+	.bennar_area::after {
+		width: 100%;
+		height: 100%;
+		background-size: cover;
+	}
+	.bennar_right {
+		margin-top: 50px;
+		text-align: center;
+	}
+	.bennar_right a img {
+		width: 500px;
+		height: 400px;
+		-o-object-fit: contain;
+		   object-fit: contain;
+	}
+	.right_profession_area{
+		margin-top: 30px;
+	}
+	.single_pakegTitle h1 {
+		margin-top: -130px;
+	}
+	.single_fun_subTitle p, .single_proLogo_discrip p{
+		text-align: center;
+		max-width: inherit;
+	}
+	.single_fun_subTitle p br{
+		display: none !important;
+	}
+	.bennat_left h1, .bennat_left p{
+		text-align: center;
+	}
+	.single_function_area {
+		margin-top: 15px;
+	}
+	.Knopfdruck_area .container-fluid {
+	    padding-right: 15px;
+	    padding-left: 15px;
+	}
+}
+
+
+@media all and (max-width:767px){
+	.bennar_area {
+		padding: 120px 0px 40px 0px;
+	}
+	.logo_area a img {
+		width: 150px;	
+	}
+	.bennat_left h1 {
+		font-size: 30px;
+		padding-bottom: 15px;
+	}
+	.bennat_left p {
+		font-size: 24px;
+		padding-bottom: 30px;
+	}
+	.bennat_left a, .functionBTN a{
+		font-size: 24px;
+	}
+	.tags_box h1, .right_profession_area h1{
+		font-size: 32px;
+	}
+	.single_tags_items{
+		margin-top: 30px;
+	}
+	.single_tags_items {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 25%;
+		        flex: 0 0 25%;
+		max-width: 25%;
+	}
+	.right_profession_area h1 span{
+		font-size: 30px;
+	}
+	.right_profession_area p {
+		font-size: 22px;
+		padding: 10px 0px;
+	}
+	.right_profession_area p span {
+		font-size: 32px;
+	}
+	.function_title h1, .proLogo_Htitle h1, .Knopfdruck_title h1{
+		font-size: 32px;
+		padding-bottom: 15px;
+	}
+	.proLogo_Htitle p{
+		font-size: 28px;
+		padding-bottom: 30px;
+	}
+	.single_proLogo_items {
+		margin-top: 40px;
+	}
+	.single_proLogo_Img {
+		margin: 25px 0px;
+	}
+
+	.Knopfdruck_titleImg img {
+		width: 350px;
+	}
+	.single_pakegImg img {
+		width: 60%;
+	}
+	.col-lg-4:nth-child(1) .single_pakegItems .single_pakegTitle h3, .col-lg-4:nth-child(2) .single_pakegItems .single_pakegTitle h3, .col-lg-4:nth-child(3) .single_pakegItems .single_pakegTitle h3 {
+		font-size: 45px;
+	}
+	.single_pakegTitle h1 {
+		margin-top: -120px;
+		font-size: 32px;
+	}
+
+}
+
+@media all and (max-width:575px){
+	.left_profession_area img {
+		width: 100%;
+		height: auto;
+	}
+	.bennar_right a img {
+		width: 100%;
+		height: auto;
+	}
+	.single_tags_items a img {
+		width: 70px;
+		height: 45px;
+	}
+	.tags_box h1, .right_profession_area h1 {
+		font-size: 25px;
+	}
+	.right_profession_area h1 span, .right_profession_area p span{
+		font-size: 24px;
+	}
+	.right_profession_area p {
+		font-size: 18px;
+	}
+	.function_title h1, .proLogo_Htitle h1, .Knopfdruck_title h1 {
+		font-size: 25px;
+		padding-bottom: 10px;
+	}
+	.single_funImg {
+		margin: 20px 0px;
+	}
+	.single_funImg img, .single_proLogo_Img a img{
+		width: 200px;
+		height: auto;
+	}
+	.bennat_left a, .functionBTN a {
+		font-size: 20px;
+	}
+	.functionBTN {
+		padding-top: 30px;
+	}
+	.proLogo_Htitle p {
+		font-size: 18px;
+		padding-bottom: 20px;
+	}
+	.proLogo_title h3, .single_proLogo_title h3{
+		font-size: 25px;
+	}
+	.single_proLogo_discrip p{
+		font-size: 18px;
+	}
+	.Knopfdruck_titleImg img {
+		width: 100%;
+	}
+	.single_pakegImg img {
+		width: 70%;
+	}
+	.col-lg-4:nth-child(1) .single_pakegItems .single_pakegTitle h3, .col-lg-4:nth-child(2) .single_pakegItems .single_pakegTitle h3, .col-lg-4:nth-child(3) .single_pakegItems .single_pakegTitle h3 {
+		font-size: 32px;
+	}
+	.pakeg_listItems ul li{
+		font-size: 16px;
+	}
+	.pakeg_btn a {
+		font-size: 20px !important;
+	}
+	.bennat_left h1 {
+		font-size: 24px;
+		padding-bottom: 10px;
+	}
+	.bennat_left p{
+		font-size: 20px;
+	}
+}
+@media all and (max-width:414px){
+	.single_pakegTitle h1 {
+		margin-top: -100px;
+		font-size: 24px;
+	}
+	.col-lg-4:nth-child(1) .single_pakegItems .single_pakegTitle h3, .col-lg-4:nth-child(2) .single_pakegItems .single_pakegTitle h3, .col-lg-4:nth-child(3) .single_pakegItems .single_pakegTitle h3 {
+		font-size: 25px;
+	}
+}
+
+@media all and (max-width:320px){
+	.single_pakegTitle h1 {
+		margin-top: -80px;
+		font-size: 20px;
+		padding-bottom: 60px;
+
+	}
+}
